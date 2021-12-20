@@ -1,0 +1,1 @@
+gcc Casa.c -o casa.exe -I C:\Users\Jonas\Documents\CG\freeglut\include -L C:\Users\Jonas\Documents\CG\freeglut\lib -lfreeglut -lopengl32 -lglu32
